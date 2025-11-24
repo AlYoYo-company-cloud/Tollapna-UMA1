@@ -153,4 +153,4 @@ window.onload = function(){
 function logout(){
     localStorage.removeItem("loggedInUser");
     location.reload();
-          }
+        }
